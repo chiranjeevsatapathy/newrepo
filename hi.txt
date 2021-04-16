@@ -5,3 +5,4 @@
 5-tiger
 6-lion
 7-bagha
+8-sinha
