@@ -1,0 +1,6 @@
+1-hii i am chiranjeev.
+2-cat
+3-bat
+4-ball
+5-tiger
+6-lion
